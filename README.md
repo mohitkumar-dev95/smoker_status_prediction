@@ -6,11 +6,11 @@ This project predicts whether an individual is a **smoker (1)** or **non-smoker 
 
 ## 👨‍💻 Contributors
 
-- **Aman Tiwari (MT2025018)**
+
 - **Mohit Kumar (MT2025075)**
 
 GitHub Links:  
-- Aman: https://github.com/Aman-dps/Smoker_Detection  
+
 - Mohit: https://github.com/mohitkumar-dev95/smoker_status_prediction  
 
 ---
